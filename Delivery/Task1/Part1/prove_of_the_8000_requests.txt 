@@ -1,0 +1,10 @@
+On the Part 1 there are some hipothesis that talk about the 8000 candle limit 
+"To confirm it, we repeated the request later (17:30 UTC): without toTime it returned exactly 8000 candles, and with toTime=13:00 it returned 7744 candles starting at 04:14"
+I cannot reproduce the exact same output at this moment. However running this 2 commands show a limit of 8000 candles;
+
+``` 
+curl -s "https://demo.dxfeed.com/webservice/rest/events.json?events=Candle&symbols=EUR/USD%7B=1m,price=bid%7D&fromTime=20260930-000000Z" -o EUR-USD_1m_no_toTime.json
+python3 -c "import json;d=json.load(open('EUR-USD_1m_no_toTime.json'));c=list(d['Candle'].values())[0];print(len(c))"
+
+```
+Output (2026-10-11): 8000

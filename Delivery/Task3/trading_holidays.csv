@@ -1,0 +1,78 @@
+exchange,date,weekday,holiday,status,close_time,source
+CME,2025-12-31,Wednesday,New Year's Day,Early Close,12:00 CT,https://www.cmegroup.com/tools-information/holiday-calendar.html
+CME,2026-01-01,Thursday,New Year's Day,Closed,,https://www.cmegroup.com/tools-information/holiday-calendar.html
+CME,2026-01-19,Monday,Martin Luther King Jr. Day,Closed,,https://www.cmegroup.com/tools-information/holiday-calendar.html
+CME,2026-02-16,Monday,Presidents' Day,Closed,,https://www.cmegroup.com/tools-information/holiday-calendar.html
+CME,2026-04-03,Friday,Good Friday,Early Close,10:00 CT,https://www.cmegroup.com/tools-information/holiday-calendar.html
+CME,2026-05-22,Friday,Memorial Day,Early Close,12:00 CT,https://www.cmegroup.com/tools-information/holiday-calendar.html
+CME,2026-05-25,Monday,Memorial Day,Closed,,https://www.cmegroup.com/tools-information/holiday-calendar.html
+CME,2026-06-19,Friday,Juneteenth,Closed,,https://www.cmegroup.com/tools-information/holiday-calendar.html
+CME,2026-07-02,Thursday,Independence Day,Early Close,12:00 CT,https://www.cmegroup.com/tools-information/holiday-calendar.html
+CME,2026-07-03,Friday,Independence Day,Closed,,https://www.cmegroup.com/tools-information/holiday-calendar.html
+CME,2026-09-07,Monday,Labor Day,Closed,,https://www.cmegroup.com/tools-information/holiday-calendar.html
+CME,2026-11-26,Thursday,Thanksgiving Day,Closed,,https://www.cmegroup.com/tools-information/holiday-calendar.html
+CME,2026-11-27,Friday,Thanksgiving Day,Early Close,12:00 CT,https://www.cmegroup.com/tools-information/holiday-calendar.html
+CME,2026-12-24,Thursday,Christmas Day,Early Close,12:00 CT,https://www.cmegroup.com/tools-information/holiday-calendar.html
+CME,2026-12-25,Friday,Christmas Day,Closed,,https://www.cmegroup.com/tools-information/holiday-calendar.html
+CME,2026-12-31,Thursday,New Year's Day,Early Close,12:00 CT,https://www.cmegroup.com/tools-information/holiday-calendar.html
+CME,2027-01-01,Friday,New Year's Day,Closed,,https://www.cmegroup.com/tools-information/holiday-calendar.html
+NASDAQ,2026-01-01,Thursday,New Year's Day,Closed,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar
+NASDAQ,2026-01-19,Monday,Martin Luther King Jr. Day,Closed,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar
+NASDAQ,2026-02-16,Monday,Presidents' Day,Closed,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar
+NASDAQ,2026-04-03,Friday,Good Friday,Closed,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar
+NASDAQ,2026-05-25,Monday,Memorial Day,Closed,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar
+NASDAQ,2026-06-19,Friday,Juneteenth,Closed,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar
+NASDAQ,2026-07-03,Friday,Independence Day,Closed,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar
+NASDAQ,2026-09-07,Monday,Labor Day,Closed,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar
+NASDAQ,2026-11-26,Thursday,Thanksgiving Day,Closed,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar
+NASDAQ,2026-11-27,Friday,Thanksgiving Day,Early Close,13:00 ET,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar
+NASDAQ,2026-12-24,Thursday,Christmas Day,Early Close,13:00 ET,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar
+NASDAQ,2026-12-25,Friday,Christmas Day,Closed,,https://www.nasdaqtrader.com/Trader.aspx?id=Calendar
+NYSE,2026-01-01,Thursday,New Year's Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2026-01-19,Monday,Martin Luther King Jr. Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2026-02-16,Monday,Presidents' Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2026-04-03,Friday,Good Friday,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2026-05-25,Monday,Memorial Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2026-06-19,Friday,Juneteenth,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2026-07-03,Friday,Independence Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2026-09-07,Monday,Labor Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2026-11-26,Thursday,Thanksgiving Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2026-11-27,Friday,Thanksgiving Day,Early Close,13:00 ET,https://www.nyse.com/markets/hours-calendars
+NYSE,2026-12-24,Thursday,Christmas Day,Early Close,13:00 ET,https://www.nyse.com/markets/hours-calendars
+NYSE,2026-12-25,Friday,Christmas Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2027-01-01,Friday,New Year's Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2027-01-18,Monday,Martin Luther King Jr. Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2027-02-15,Monday,Presidents' Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2027-03-26,Friday,Good Friday,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2027-05-31,Monday,Memorial Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2027-06-18,Friday,Juneteenth,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2027-07-05,Monday,Independence Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2027-09-06,Monday,Labor Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2027-11-25,Thursday,Thanksgiving Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2027-11-26,Friday,Thanksgiving Day,Early Close,13:00 ET,https://www.nyse.com/markets/hours-calendars
+NYSE,2027-12-24,Friday,Christmas Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2028-01-17,Monday,Martin Luther King Jr. Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2028-02-21,Monday,Presidents' Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2028-04-14,Friday,Good Friday,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2028-05-29,Monday,Memorial Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2028-06-19,Monday,Juneteenth,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2028-07-03,Monday,Independence Day,Early Close,13:00 ET,https://www.nyse.com/markets/hours-calendars
+NYSE,2028-07-04,Tuesday,Independence Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2028-09-04,Monday,Labor Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2028-11-23,Thursday,Thanksgiving Day,Closed,,https://www.nyse.com/markets/hours-calendars
+NYSE,2028-11-24,Friday,Thanksgiving Day,Early Close,13:00 ET,https://www.nyse.com/markets/hours-calendars
+NYSE,2028-12-25,Monday,Christmas Day,Closed,,https://www.nyse.com/markets/hours-calendars
+OPRA,2025-01-01,Wednesday,New Year's Day,Closed,,https://cdn.opraplan.com/documents/notices/2025_HOLIDAY_SCHEDULE.pdf
+OPRA,2025-01-20,Monday,Martin Luther King Jr. Day,Closed,,https://cdn.opraplan.com/documents/notices/2025_HOLIDAY_SCHEDULE.pdf
+OPRA,2025-02-17,Monday,Presidents' Day,Closed,,https://cdn.opraplan.com/documents/notices/2025_HOLIDAY_SCHEDULE.pdf
+OPRA,2025-04-18,Friday,Good Friday,Closed,,https://cdn.opraplan.com/documents/notices/2025_HOLIDAY_SCHEDULE.pdf
+OPRA,2025-05-26,Monday,Memorial Day,Closed,,https://cdn.opraplan.com/documents/notices/2025_HOLIDAY_SCHEDULE.pdf
+OPRA,2025-06-19,Thursday,Juneteenth,Closed,,https://cdn.opraplan.com/documents/notices/2025_HOLIDAY_SCHEDULE.pdf
+OPRA,2025-07-03,Thursday,Independence Day,Early Close,3 hours early,https://cdn.opraplan.com/documents/notices/2025_HOLIDAY_SCHEDULE.pdf
+OPRA,2025-07-04,Friday,Independence Day,Closed,,https://cdn.opraplan.com/documents/notices/2025_HOLIDAY_SCHEDULE.pdf
+OPRA,2025-09-01,Monday,Labor Day,Closed,,https://cdn.opraplan.com/documents/notices/2025_HOLIDAY_SCHEDULE.pdf
+OPRA,2025-11-27,Thursday,Thanksgiving Day,Closed,,https://cdn.opraplan.com/documents/notices/2025_HOLIDAY_SCHEDULE.pdf
+OPRA,2025-11-28,Friday,Thanksgiving Day,Early Close,3 hours early,https://cdn.opraplan.com/documents/notices/2025_HOLIDAY_SCHEDULE.pdf
+OPRA,2025-12-24,Wednesday,Christmas Day,Early Close,3 hours early,https://cdn.opraplan.com/documents/notices/2025_HOLIDAY_SCHEDULE.pdf
+OPRA,2025-12-25,Thursday,Christmas Day,Closed,,https://cdn.opraplan.com/documents/notices/2025_HOLIDAY_SCHEDULE.pdf
+OPRA,2026-01-01,Thursday,New Year's Day,Closed,,https://cdn.opraplan.com/documents/notices/2025_HOLIDAY_SCHEDULE.pdf
